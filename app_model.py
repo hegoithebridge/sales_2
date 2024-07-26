@@ -10,6 +10,8 @@ import numpy as np
 # os.chdir(os.path.dirname(__file__))
 root_path = '/home/hegoithebridge/sales_2/'
 
+
+
 app = Flask(__name__)
 app.config['DEBUG'] = True
 
